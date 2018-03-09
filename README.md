@@ -24,4 +24,5 @@ Pre-processing
 The dataset contains three columns, namely Employee Count, Over 18 and Standard Hours, which have the same values throughout the data. We remove these features from our dataset, since they do not provide any value to our prediction. Apart from this, the dataset is uniform throughout, and we have no missing values or nulls for any of the columns.
 
 Conclusion
+
 The model the we propose seems to be performing reasonably well, for the given number of data points. The dimensionality of the data certainly affects the performance, and can be improved by collecting more data. The misclassification rate is about 6% better than that of random guessing, which is reasonably well for unbalanced classes. 
